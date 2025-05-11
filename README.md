@@ -1,12 +1,43 @@
-# React + Vite
+# 🎮 GTA IV Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I'm just excited after seeing the **GTA IV trailer** — and that inspiration hit hard!  
+So I decided to turn that hype into code and built a **GTA IV Landing Page** using **React**, **Tailwind CSS**, and smooth **GSAP animations**.
 
-Currently, two official plugins are available:
+This project is a tribute to the game's legendary style, built with modern frontend technologies to showcase both creativity and coding finesse.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo
 
-## Expanding the ESLint configuration
+**View the live site here:** [GitHub Pages Link][(https://awaiscodebase.github.io/GTA-IV/)  
+**Source Code:** [GitHub Repo](https://github.com/AwaisCodeBase/GTA-IV)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+- ⚡ Responsive, single-page layout
+- 🎨 Built with Tailwind CSS for fast and flexible styling
+- 🎞️ Smooth animations powered by GSAP
+- 🧩 Component-based structure using React
+- 🎮 Aesthetic design inspired by the gritty and cinematic vibe of GTA IV
+
+## 📸 Preview
+
+![GTA IV Landing Page Screenshot](./GTA-IV.png)
+
+> *(Add a screenshot or GIF here showing the landing page UI)*
+
+## 🛠️ Tech Stack
+
+- **React** – JavaScript UI library
+- **Tailwind CSS** – Utility-first CSS framework
+- **GSAP** – JavaScript animation library
+- **Vite** – Frontend build tool for fast dev environment
+- **GitHub Pages** – Hosting
+
+## 🧪 Installation
+
+To run this project locally:
+
+```bash
+git clone https://github.com/your-github-username/repo-name.git
+cd repo-name
+npm install
+npm run dev

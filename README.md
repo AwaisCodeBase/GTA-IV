@@ -22,8 +22,6 @@ This project is a tribute to the game's legendary style, built with modern front
 
 ![GTA IV Landing Page Screenshot](./GTA-IV.png)
 
-> *(Add a screenshot or GIF here showing the landing page UI)*
-
 ## 🛠️ Tech Stack
 
 - **React** – JavaScript UI library
